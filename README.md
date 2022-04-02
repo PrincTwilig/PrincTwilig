@@ -11,4 +11,4 @@
 
 ## :helicopter: Вже закінчені проекти
 - ### [HandControlDroneTello](https://github.com/PrincTwilig/HandControlDroneTello)
-Проект для керування дроном Tello за допомогою жестів, використовується бібліотека OpenCV та MediaPipe, все написано на python :snake:
+Проект для керування дроном Tello за допомогою жестів, використовується бібліотека OpenCV та MediaPipe, все написано на Python :snake:
