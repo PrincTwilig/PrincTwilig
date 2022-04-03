@@ -5,6 +5,7 @@
 **Вже готові проекти**
 - [Фізика ЛАБ_1](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab1)
 - [Фізика ЛАБ_2](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab2)
+- [Фізика ЛАБ 4](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab4)
 
 **Скоро буде**
 - [Фізика ЛАБ_3](https://github.com/PrincTwilig/wunu_proj/tree/master/phys_lab3)
