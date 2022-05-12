@@ -9,6 +9,7 @@
 - [Фізика ЛАБ_5](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab5)
 - [Фізика ЛАБ 8](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab8)
 - [Фізика ЛАБ 9](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab9)
+- [Фізика ЛАБ 10](https://github.com/PrincTwilig/wunu_proj/releases/tag/Phys_lab10)
 
 **Скоро буде**
 - [Фізика ЛАБ_3](https://github.com/PrincTwilig/wunu_proj/tree/master/phys_lab3)
